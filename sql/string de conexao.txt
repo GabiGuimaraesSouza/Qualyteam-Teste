@@ -1,0 +1,4 @@
+hostname=qualyteam.mysql.database.azure.com 
+username=adminqualyteam 
+password=Qualyteam@2022
+ssl-mode=require
